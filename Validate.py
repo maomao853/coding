@@ -20,7 +20,7 @@ def importTable():
         ]
 
         name = myName
-        positions = [RG, GS, ...]
+        positions = [pos1, pos2, ...]
 
         apps(name, positions)
         """
